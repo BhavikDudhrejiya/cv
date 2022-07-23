@@ -10,7 +10,7 @@ st.write('''
 ##### *Data Scientist* 
 ''')
 
-image = Image.open('/home/bhavik/Projects/cv/1644747534717.jpg')
+image = Image.open('1644747534717.jpg')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
