@@ -15,7 +15,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info(''' 
-A data scientist with over a year of experience in running data-driven solutions to improve the efficiency, accuracy, and usefulness of internal data processing. Experience building data regression models, using predictive models, generating insights by analyzing data mining algorithms, and implementing action-oriented solutions for complex business problems..
+A data scientist with over a year of experience in running data-driven solutions to improve the efficiency, accuracy, and usefulness of internal data processing. Experience building data regression models, using predictive models, generating insights by analyzing data mining algorithms, and implementing action-oriented solutions for complex business problems.
 ''')
 #------------------------------------------------------------------------------------------------------
 # Navigation
