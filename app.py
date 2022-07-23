@@ -95,13 +95,13 @@ st.markdown('''
 txt('**Data Scientist** | `CIPIO.ai`',
 'June 2021-Present')
 st.markdown('''
-- Implemented a face detection system which detects face and facial attributes from the images of a social media with more than 95% accuracy resulting in a savings $500 per month.
+- Implemented a face detection system that detects face and facial attributes from the images on social media with more than 95% accuracy resulting in a savings of $500 per month.
 - Built image moderation system for detecting explicit and graphical content with more than 85% accuracy.
-- Built instagram reach prediction model which predicts engagement on instagram post with more than 75% accuracy.
+- Built Instagram reach prediction model which predicts engagement on Instagram post with more than 75% accuracy.
 - Built image segmentation model using hierarchical clustering method which categorize the images in 200 categories with an accuracy of 80%.
-- Developed a semantic tiktok video search engine which search a relavent videos as per the given keyword description.
-- Built semantic community influencers search engine which search a relavent influencers as per the given keyword description based on influencers profile.
-- Created brands and competitors analytics tool which generates a graphical insights of a relavent brands and its performance on instagam for influencers marketing. It also generates comparative insights on all the competitors brand and target brand to determine the competitors marketing strategy.
+- Developed a semantic TikTok video search engine which search a relevant videos as per the given keyword description.
+- Built semantic community influencers search engine which searches relevant influencers as per the given keyword description based on influencers' profiles.
+- Created brands and competitors analytics tool which generates graphical insights of relevant brands and their performance on Instagram for influencers marketing. It also generates comparative insights on all the competitors' brands and target brands to determine the competitors' marketing strategy.
 - Currently building tiktok video performance prediction model which predicts engagement on tiktok post.
 ''')
 
