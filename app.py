@@ -196,6 +196,7 @@ st.markdown('''
 txt2('LinkedIn','https://www.linkedin.com/in/bhavikjan09/')
 txt2('GitHub','https://github.com/BhavikDudhrejiya')
 txt2('Twitter','https://twitter.com/Bhavik_0901')
+st.write('''---''')
 #--------------------------------------------------------------------------------------------------------
 st.markdown('''
 ## Contact
