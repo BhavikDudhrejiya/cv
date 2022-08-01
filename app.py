@@ -52,6 +52,9 @@ st.markdown("""
           <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
       </li>
+          <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact</a>
+      </li>
     </ul>
   </div>
 </nav>
@@ -194,3 +197,8 @@ txt2('LinkedIn','https://www.linkedin.com/in/bhavikjan09/')
 txt2('GitHub','https://github.com/BhavikDudhrejiya')
 txt2('Twitter','https://twitter.com/Bhavik_0901')
 #--------------------------------------------------------------------------------------------------------
+st.markdown('''
+## Contact
+''')
+txt2('E-mail','bhavik.datascience@gmail.com')
+txt2('Mobile','+91 - 7977893477')
