@@ -183,7 +183,7 @@ txt3('Model deployment', '`Streamlit`, `Gradio`, `Heroku`, `AWS`, `MLflow`')
 st.write('''---''')
 #-------------------------------------------------------------------------------------------------------
 st.markdown('''
-## Courses
+## Courses & Certifications
 ''')
 txt2('Business Analytics','https://drive.google.com/file/d/1bSYBV83DhsQYTlH0SPn2MRv_z4Ix79if/view?usp=sharing')
 txt2('Big Data & Hadoop', 'https://drive.google.com/file/d/1RaaAFrBtapHGE4igNQL7IghPsVwFTO4m/view?usp=sharing')
